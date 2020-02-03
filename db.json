@@ -1,0 +1,31 @@
+{
+  mediaItems: [
+    {
+      id: 1,
+      name: 'Firebug',
+      medium: 'Series',
+      category: 'Science Fiction',
+      year: 2014,
+      watchedOn: null,
+      isFavorite: false
+    },
+    {
+      id: 2,
+      name: 'The Small Tall',
+      medium: 'Movies',
+      category: 'Comedy',
+      year: 2011,
+      watchedOn: "01/02/2020",
+      isFavorite: true
+    },
+    {
+      id: 3,
+      name: 'Wolf of Wall Street',
+      medium: 'Movies',
+      category: 'Drama',
+      year: 2019,
+      watchedOn: "18/01/2020",
+      isFavorite: false
+    }
+  ]
+}
